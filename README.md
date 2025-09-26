@@ -11,6 +11,6 @@ I’m a passionate developer with 4+ years of experience in web and mobile devel
 - PHP, Laravel, MySQL, PostgreSQL
 
 📫 **Get in Touch**
-**[LinkedIn](https://linkedin.com/in/harun-alrosyid)** | **[Portofolio](https://www.elepantio.com)** | **[Resume](https://www.elepantio.com/#experience)**  | **[Resume-md](https://github.com/harun-alrosyid/harun-alrosyid/blob/master/RESUME.md)** | **[harun24896@gmail.com](mailto:harun24896@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/harun-alrosyid)** | **[Portofolio](https://www.elepantio.com](https://www.harunalrosyid.com/))** | **[Resume](https://www.elepantio.com/#experience)**  | **[Resume-md](https://www.harunalrosyid.com/assets/docs/cv/harun-al-rosyid-resume-2025.pdf)** | **[harun24896@gmail.com](mailto:harun24896@gmail.com)**
 
 
